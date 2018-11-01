@@ -10,7 +10,7 @@ React application built with MathJS. Allows user to put in an expression and ret
 
 ## Demo
 
-> Demo of application can be found here: (http://www.vishshukla.github.io/react-calculator)
+> Demo of application can be found here: (http://vishshukla.github.io/react-calculator)
 
 
 ## Installation
