@@ -4,7 +4,7 @@
 
 React application built with MathJS. Allows user to put in an expression and returns the answ
 
-![](image.png = 300x300)
+![](image.png =300x300)
 
 ## Demo
 
