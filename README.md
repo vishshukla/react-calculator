@@ -1,18 +1,28 @@
 # React Calculator
-> Helps people solve arithmetic math problems
+> Web application that reminds you that 1+1 is 2.
 
-[![NPM Version][npm-image]][npm-url]
+[NPM Version][npm-image]
 
-One to two paragraph statement about your product and what it does.
+React application built with MathJS. Allows user to put in an expression and returns the answ
 
-![](image.png)
+![](image.png = 300x300)
+
+## Demo
+
+> Demo of application can be found here: (https://www.vishshukla.github.io/react-calculator)
+
 
 ## Installation
 
-OS X & Linux:
-
 ```sh
-npm install my-crazy-module --save
+git clone https://github.com/vishshukla/react-calculator.git
+
+cd react-calculator
+
+yarn install (or npm install)
+
+yarn start (or npm start)
+
 ```
 
 ## Release History
@@ -34,6 +44,3 @@ Vishwas Shukla – [@vishshukla](https://www.linkedin.com/in/vishshukla/)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
