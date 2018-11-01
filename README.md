@@ -5,7 +5,7 @@
 React application built with MathJS. Allows user to put in an expression and returns the answ
 
 <p align="center">
-  <img width="460" height="460" src="./image.png">
+  <img width="460" height="500" src="./image.png">
 </p>
 
 ## Demo
